@@ -1,4 +1,0 @@
-::sysinit:/etc/init.d/rcS
-hvc0::respawn:/bin/login root
-::shutdown:/etc/init.d/rcK
-::restart:/sbin/init
